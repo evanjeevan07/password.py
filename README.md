@@ -22,24 +22,24 @@ Professional Password Generator Suite is a modern desktop security utility appli
 
 # 📌 Table of Contents
 
-| Section | Description |
-|---|---|
-| [🧠 Overview](#-overview) | Introduction about the software |
-| [✨ Features](#-features) | Main features and capabilities |
-| [🖼️ Screenshots](#️-screenshots) | Application preview images |
-| [🛠️ Technology Stack](#️-technology-stack) | Technologies used in development |
-| [🎨 User Interface Components](#-user-interface-components) | UI elements and widgets |
-| [🔐 Security System](#-security-system) | Password security implementation |
-| [⚡ Software Architecture](#-software-architecture) | Internal application structure |
-| [⚙️ Installation Guide](#️-installation-guide) | Setup and installation steps |
-| [🚀 Usage Instructions](#-usage-instructions) | How to use the application |
-| [📂 Project Structure](#-project-structure) | Folder and file organization |
-| [🎯 Performance](#-performance) | Performance overview |
-| [🌙 Future Roadmap](#-future-roadmap) | Upcoming features |
-| [📈 GitHub Optimization](#-github-optimization) | Repository improvements |
-| [📄 License](#-license) | Project license information |
-| [👨‍💻 Developer Information](#-developer-information) | Developer details |
-| [⭐ Support](#-support-the-project) | Support and contribution |
+- Overview
+- Features
+- Screenshots
+- Technology Stack
+- User Interface Components
+- Security System
+- Software Architecture
+- Installation Guide
+- Usage Instructions
+- Folder Structure
+- Performance
+- Future Roadmap
+- GitHub Optimization
+- License
+- Developer Information
+- Support
+
+---
 
 # 🧠 Overview
 
